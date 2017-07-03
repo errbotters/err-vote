@@ -1,0 +1,9 @@
+[Core]
+Name = Vote
+Module = vote
+
+[Documentation]
+Description = Create polls and let users vote.
+
+[Python]
+Version = 2+
